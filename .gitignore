@@ -1,6 +1,8 @@
 # VS caches and binaries
+.vs/
 .suo
 .db
+.VS.db
 
 # Prerequisites
 *.d
